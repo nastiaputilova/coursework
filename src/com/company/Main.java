@@ -16,7 +16,7 @@ public class Main {
         employee[8] = new Employee("Tarasov", "Andrey", "Vitalievich", "4",5000, 9);
         employee[9] = new Employee("Matveeva", "Sofia", "Aleksandrovna", "5",5000, 10);
 
-        // Получить список всех сотрудников со всеми имеющимися по ним данными
+        // Получить список сотрудников со всеми имеющимися по ним данными
         System.out.println(employee[0]);
         System.out.println(employee[1]);
         System.out.println(employee[2]);
